@@ -1,0 +1,136 @@
+# English translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-06-06 20:52+0500\n"
+"PO-Revision-Date: 2024-06-06 20:52+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: bot/buttons/captions.py:16
+msgid " 🆔 ID"
+msgstr ""
+
+#: bot/buttons/captions.py:18
+msgid "💠 Title"
+msgstr ""
+
+#: bot/buttons/captions.py:20
+msgid "💸 Price"
+msgstr ""
+
+#: bot/buttons/captions.py:22
+msgid "〽️ Quantity"
+msgstr ""
+
+#: bot/buttons/captions.py:24
+msgid "📕 Description"
+msgstr ""
+
+#: bot/buttons/captions.py:26
+msgid "📦 Type"
+msgstr ""
+
+#: bot/buttons/inline.py:21
+msgid "↩️ Back"
+msgstr ""
+
+#: bot/buttons/inline.py:22
+msgid "🛒 Add to Cart"
+msgstr ""
+
+#: bot/buttons/inline.py:39
+msgid "🔍 Search"
+msgstr ""
+
+#: bot/buttons/inline.py:40
+msgid "Return ↩️"
+msgstr ""
+
+#: bot/buttons/inline.py:57
+msgid "⏫ Back"
+msgstr ""
+
+#: bot/buttons/reply.py:10
+msgid "🇺🇿 Uzbek"
+msgstr ""
+
+#: bot/buttons/reply.py:11
+msgid "🇷🇺 Russian"
+msgstr ""
+
+#: bot/buttons/reply.py:12
+msgid "🇺🇸 English"
+msgstr ""
+
+#: bot/buttons/reply.py:13
+msgid "🔂 Back"
+msgstr ""
+
+#: bot/buttons/reply.py:23
+msgid "🏬 Goods|Products 🏪"
+msgstr ""
+
+#: bot/buttons/reply.py:26
+msgid "📃 My Orders"
+msgstr ""
+
+#: bot/buttons/reply.py:29
+msgid "📲  Our Social Network  🌐"
+msgstr ""
+
+#: bot/buttons/reply.py:30
+msgid "📞 ☎️ Contact Us"
+msgstr ""
+
+#: bot/buttons/reply.py:33
+msgid "🇺🇿/🇷🇺/🇺🇲 Language"
+msgstr ""
+
+#: bot/handlers/private/book.py:26
+msgid ""
+"🟢\t\t Products Section \t\t🏪\t : \n"
+"\n"
+"🟢 \t\tChoose one of the Categories : "
+msgstr ""
+
+#: bot/handlers/private/book.py:35 bot/handlers/private/language.py:50
+msgid "Main Menu"
+msgstr ""
+
+#: bot/handlers/private/book.py:41 bot/handlers/private/book.py:66
+#: bot/handlers/private/book.py:80 bot/handlers/private/book.py:111
+msgid "Results from 1-6 "
+msgstr ""
+
+#: bot/handlers/private/book.py:57
+msgid "🟢 \t\tChoose one of the Categories : "
+msgstr ""
+
+#: bot/handlers/private/language.py:18
+msgid "Language ♻️ Switch"
+msgstr ""
+
+#: bot/handlers/private/language.py:33
+msgid "Selected: 🇺🇿 Uzbek"
+msgstr ""
+
+#: bot/handlers/private/language.py:41
+msgid "Selected: 🇷🇺 Russian"
+msgstr ""
+
+#: bot/handlers/private/language.py:48
+msgid "Selected: 🇺🇸 English"
+msgstr ""
+

@@ -1,0 +1,139 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-06-06 20:52+0500\n"
+"PO-Revision-Date: 2024-06-06 20:52+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: bot/buttons/captions.py:16
+msgid " 🆔 ID"
+msgstr " 🆔 ID"
+
+#: bot/buttons/captions.py:18
+msgid "💠 Title"
+msgstr "💠 Nomi"
+
+#: bot/buttons/captions.py:20
+msgid "💸 Price"
+msgstr "💸 Narxi"
+
+#: bot/buttons/captions.py:22
+msgid "〽️ Quantity"
+msgstr "〽️ Miqdori"
+
+#: bot/buttons/captions.py:24
+msgid "📕 Description"
+msgstr "📕 Tavsifi"
+
+#: bot/buttons/captions.py:26
+msgid "📦 Type"
+msgstr "📦 Turi"
+
+#: bot/buttons/inline.py:21
+msgid "↩️ Back"
+msgstr "↩️ Qaytish"
+
+#: bot/buttons/inline.py:22
+msgid "🛒 Add to Cart"
+msgstr "🛒 Savatga qo'shish"
+
+#: bot/buttons/inline.py:39
+msgid "🔍 Search"
+msgstr "🔍 Qidiruv"
+
+#: bot/buttons/inline.py:40
+msgid "Return ↩️"
+msgstr "Qaytish ↩️"
+
+#: bot/buttons/inline.py:57
+msgid "⏫ Back"
+msgstr "⏫ Qaytish"
+
+#: bot/buttons/reply.py:10
+msgid "🇺🇿 Uzbek"
+msgstr "🇺🇿 O'zbek tili"
+
+#: bot/buttons/reply.py:11
+msgid "🇷🇺 Russian"
+msgstr "🇷🇺 Rus tili"
+
+#: bot/buttons/reply.py:12
+msgid "🇺🇸 English"
+msgstr "🇺🇸 Ingliz tili"
+
+#: bot/buttons/reply.py:13
+msgid "🔂 Back"
+msgstr "🔂 Orqaga"
+
+#: bot/buttons/reply.py:23
+msgid "🏬 Goods|Products 🏪"
+msgstr "🏬 Tovarlar | Mahsulotlar 🏪"
+
+#: bot/buttons/reply.py:26
+msgid "📃 My Orders"
+msgstr "📃 Buyurtmalarim"
+
+#: bot/buttons/reply.py:29
+msgid "📲  Our Social Network  🌐"
+msgstr "📲 Bizning Ijtimoiy Tarmog'larimiz 🌐"
+
+#: bot/buttons/reply.py:30
+msgid "📞 ☎️ Contact Us"
+msgstr "📞 ☎️ Biz Bilan Bog'lanish"
+
+#: bot/buttons/reply.py:33
+msgid "🇺🇿/🇷🇺/🇺🇲 Language"
+msgstr "🇺🇿/🇷🇺/🇺🇲 Til"
+
+#: bot/handlers/private/book.py:26
+msgid ""
+"🟢\t\t Products Section \t\t🏪\t : \n"
+"\n"
+"🟢 \t\tChoose one of the Categories : "
+msgstr ""
+"🟢\t\t Mahsulotlar bo'limi \t\t🏪\t: \n"
+"\n"
+"🟢 \t\tKategoriyalardan birini tanlang: "
+
+#: bot/handlers/private/book.py:35 bot/handlers/private/language.py:50
+msgid "Main Menu"
+msgstr "Asosiy menyu"
+
+#: bot/handlers/private/book.py:41 bot/handlers/private/book.py:66
+#: bot/handlers/private/book.py:80 bot/handlers/private/book.py:111
+msgid "Results from 1-6 "
+msgstr "1-6 gacha boʻlgan natijalar"
+
+#: bot/handlers/private/book.py:57
+msgid "🟢 \t\tChoose one of the Categories : "
+msgstr "🟢 \t\tKategoriyalardan birini tanlang: "
+
+#: bot/handlers/private/language.py:18
+msgid "Language ♻️ Switch"
+msgstr "Til ♻️ Oʻzgartirish"
+
+#: bot/handlers/private/language.py:33
+msgid "Selected: 🇺🇿 Uzbek"
+msgstr "Tanlandi: 🇺🇿 O'zbek tili"
+
+#: bot/handlers/private/language.py:41
+msgid "Selected: 🇷🇺 Russian"
+msgstr "Tanlandi: 🇷🇺 Rus tili"
+
+#: bot/handlers/private/language.py:48
+msgid "Selected: 🇺🇸 English"
+msgstr "Tanlandi: 🇺🇸 Ingliz tili"
+

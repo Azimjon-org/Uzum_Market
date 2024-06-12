@@ -1,0 +1,47 @@
+version: '3.11'
+
+services:
+  bot:
+    build: . # or image:
+    restart: always
+    container_name:  uzum_con
+#    environment:
+#      TOKEN: 7366439996:AAFakk80IdKAQhVNwk_1uYv0HVthtUOnQ7M
+#      DB_USER: postgres
+#      DB_NAME: factor_books
+#      HOST: localhost
+#      PORT: 5432
+#      PASSWORD: 1
+#      REDIS_HOST: redis
+#      REDIS_PORT: 6379
+#      WEB_USERNAME: admin
+#      WEB_PASSWORD: $2b$12$Y11dF.5F4jC2KhjZABh.C.mvDsQJOdZurYMM/u2ocEaxm5tYI.YyG
+#      PAYMENT_CLICK_TOKEN: #write click/payme/paynet token
+
+    depends_on:
+      - pg
+
+  pg:
+    image: postgres:alpine
+    restart: always
+    container_name: pg_con
+    environment:
+      POSTGRES_PASSWORD: 1
+#      TZ: Asia/Tashkent
+    ports:
+      - "5433:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+
+#  redis:
+#    image: redis:alpine
+#    container_name: redis_container
+#    ports:
+#      - '6379:6379'
+#    volumes:
+#      - redis_data:/data
+#    restart: always
+
+volumes:
+  pg_data:
+#  redis_data: {}
